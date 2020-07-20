@@ -1535,14 +1535,8 @@ section {
   font-size: 13px;
 }
 
-.contact .php-email-form .error-message {
-  display: none;
-  color: rgb(14, 12, 12);
-  background: #ed3c0d;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
+
+
 
 .contact .php-email-form .sent-message {
   display: none;
