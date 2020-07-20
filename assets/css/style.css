@@ -1181,7 +1181,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Book A Table
+# Reservaciones
 --------------------------------------------------------------*/
 .book-a-table .php-email-form {
   width: 100%;
@@ -1193,7 +1193,7 @@ section {
 
 .book-a-table .php-email-form .validate {
   display: none;
-  color: red;
+  color: rgb(104, 9, 9);
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -1201,8 +1201,8 @@ section {
 
 .book-a-table .php-email-form .error-message {
   display: none;
-  color: #fff;
-  background: #ed3c0d;
+  color: rgb(156, 135, 77);
+  background:rgb(104, 9, 9);
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1214,8 +1214,8 @@ section {
 
 .book-a-table .php-email-form .sent-message {
   display: none;
-  color: #fff;
-  background: #18d26e;
+  color: rgb(156, 135, 77);
+  background:rgb(104, 9, 9);
   text-align: center;
   padding: 15px;
   font-weight: 600;
